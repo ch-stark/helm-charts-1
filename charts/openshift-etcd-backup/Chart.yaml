@@ -11,8 +11,8 @@ keywords:
   - etcd
 home: https://github.com/adfinis-sygroup/openshift-etcd-backup
 sources:
-  - https://github.com/adfinis-sygroup/openshift-etcd-backup
-  - https://github.com/adfinis-sygroup/helm-charts/tree/master/charts/openshift-etcd-backup
+  - https://github.com/ch-stark/openshift-etcd-backup
+  - https://github.com/ch-stark/helm-charts/tree/master/charts/openshift-etcd-backup
 maintainers:
   - name: adfinis-sygroup
     email: support@adfinis.com
